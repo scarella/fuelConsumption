@@ -1,4 +1,4 @@
-package mkravi.consumption;
+package scarella.consumption;
 
 import android.support.v4.app.Fragment;
 import android.widget.TabHost.OnTabChangeListener;

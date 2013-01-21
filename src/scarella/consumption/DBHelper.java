@@ -1,4 +1,4 @@
-package mkravi.consumption;
+package scarella.consumption;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import android.util.Log;
 public class DBHelper extends SQLiteOpenHelper 
 {
 
-	private static final String DB_PATH = "/data/data/mkravi.consumption/databases/";
+	private static final String DB_PATH = "/data/data/scarella.consumption/databases/";
 	private static final String DB_NAME = "spotreba.s3db";
 	private static final int DB_VERSION = 1;
 	private final Context myContext;
