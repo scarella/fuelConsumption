@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Fuel Consumption</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_lpg">Lpg</string>
+    <string name="tab_petrol">Petrol</string>
+    <string name="tab_summary">Summary</string>
+
+</resources>
